@@ -1,0 +1,6 @@
+simulation/Highway.net.xml:
+
+	The SUMO network simulation/Highway.net.xml (which is based on openstreetmap.org input) is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/.
+
+All other files:
+	All other files (traffic data and configuration) in the scenario are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License: http://creativecommons.org/licenses/by-sa/4.0/.

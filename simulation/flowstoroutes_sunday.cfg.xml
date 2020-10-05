@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Highway.net.xml"/>
+        <additional-files value="vehicle_types.add.xml"/>
+        <flow-files value="FlowsKreuze_Gegen_Sonntag.xml FlowsKreuze_Mit_Sonntag.xml Flows_AS_Gegen_Sonntag.xml Flows_AS_Mit_Sonntag.xml Flows_Feuerbach_Sonntag.xml"/>
+    </input>
+
+    <output>
+        <output-file value="routes_sunday.rou.xml"/>
+    </output>
+
+    <processing>
+        <randomize-flows value="true"/>
+		<unsorted-input value="true"/>
+    </processing>
+
+    <defaults>
+        <departlane value="best" />
+        <departspeed value="max" />
+        <departpos value="free" />
+    </defaults>
+
+</configuration>

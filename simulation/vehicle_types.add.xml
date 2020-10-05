@@ -1,0 +1,7 @@
+<routes>
+	<!-- accel and decel values tanken from https://de.wikipedia.org/wiki/Gr%C3%B6%C3%9Fenordnung_%28Beschleunigung%29 -->
+	<vType id="Pkw" vClass="passenger" speedFactor="1.0" speedDev="0.1"  color="1,1,0" accel="7.0" decel="10.0" minGap="0.5" tau="0.5" />
+	<vType id="Motorrad" vClass="motorcycle" speedFactor="1.0" speedDev="0.1"  color="0,1,1" accel="7.0" decel="10.0" minGap="0.5" tau="0.5" />
+	<vType id="Bus" vClass="bus" speedFactor="1.0" speedDev="0.1"  color="1,0,0" accel="4.0" decel="8.0" minGap="0.5" tau="0.5" />
+	<vType id="Lkw" vClass="truck" speedFactor="1.0" speedDev="0.1" color="0,0,1" accel="4.0" decel="8.0" minGap="0.5" tau="0.5" />
+</routes>

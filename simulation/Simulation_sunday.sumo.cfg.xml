@@ -1,0 +1,25 @@
+<configuration >
+	<input>
+		<net-file value="Highway.net.xml"/>
+		<route-files value="routes_sunday.rou.xml"/>
+	</input>
+
+	<time>
+		<begin value="0"/>
+		<end value="93600"/>
+		<step-length value="0.5"/>
+	</time>
+
+	<output>
+		<fcd-output value="output_sunday.fcd.xml"/>
+		<tripinfo-output value="tripinfo_sunday.xml"/>
+	</output>
+
+	<report>
+		<error-log value="errors_sunday.xml"/>
+	</report>
+
+	<gui_only>
+		<gui-settings-file value="Gui.settings.xml"/>
+	</gui_only>
+</configuration>

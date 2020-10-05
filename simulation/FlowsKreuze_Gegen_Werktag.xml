@@ -1,0 +1,662 @@
+<flows>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std0.0no889" number="39" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std0.0no876" number="23" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std3600.0no707" number="23" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std3600.0no358" number="13" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std7200.0no388" number="15" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std7200.0no917" number="9" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std10800.0no57" number="18" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std10800.0no657" number="10" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std14400.0no843" number="30" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std14400.0no806" number="18" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std18000.0no672" number="88" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std18000.0no200" number="52" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std21600.0no556" number="193" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std21600.0no492" number="114" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std25200.0no648" number="312" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std25200.0no494" number="184" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std28800.0no44" number="330" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std28800.0no985" number="195" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std32400.0no146" number="305" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std32400.0no244" number="180" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std36000.0no649" number="301" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std36000.0no485" number="177" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std39600.0no192" number="311" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std39600.0no208" number="183" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std43200.0no993" number="332" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std43200.0no37" number="196" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std46800.0no301" number="367" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std46800.0no631" number="216" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std50400.0no809" number="373" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std50400.0no802" number="220" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std54000.0no53" number="415" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std54000.0no430" number="245" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std57600.0no477" number="468" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std57600.0no480" number="276" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std61200.0no863" number="475" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std61200.0no768" number="280" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std64800.0no131" number="410" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std64800.0no770" number="242" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std68400.0no208" number="296" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std68400.0no534" number="175" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std72000.0no967" number="209" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std72000.0no539" number="123" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std75600.0no226" number="146" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std75600.0no193" number="86" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std79200.0no297" number="108" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std79200.0no632" number="64" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962900std82800.0no452" number="74" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458590std82800.0no962" number="44" to="23845859" type="Pkw"/>
+	</interval>
+	<interval begin="0.0" end="3599.0"/>
+	<interval begin="3600.0" end="7199.0"/>
+	<interval begin="7200.0" end="10799.0"/>
+	<interval begin="10800.0" end="14399.0"/>
+	<interval begin="14400.0" end="17999.0"/>
+	<interval begin="18000.0" end="21599.0"/>
+	<interval begin="21600.0" end="25199.0"/>
+	<interval begin="25200.0" end="28799.0"/>
+	<interval begin="28800.0" end="32399.0"/>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std32400.0no23" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std36000.0no157" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std39600.0no439" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std43200.0no730" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std46800.0no957" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std50400.0no847" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std54000.0no294" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std57600.0no661" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std61200.0no906" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std64800.0no359" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962901std68400.0no879" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0"/>
+	<interval begin="75600.0" end="79199.0"/>
+	<interval begin="79200.0" end="82799.0"/>
+	<interval begin="82800.0" end="86399.0"/>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std0.0no505" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std0.0no251" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std3600.0no560" number="1" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std3600.0no168" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std7200.0no613" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std7200.0no143" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std10800.0no242" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std10800.0no846" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std14400.0no818" number="4" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std14400.0no571" number="2" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std18000.0no960" number="7" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std18000.0no650" number="4" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std21600.0no920" number="12" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std21600.0no694" number="7" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std25200.0no197" number="14" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std25200.0no38" number="8" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std28800.0no760" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std28800.0no598" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std32400.0no487" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std32400.0no525" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std36000.0no980" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std36000.0no282" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std39600.0no183" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std39600.0no747" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std43200.0no787" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std43200.0no194" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std46800.0no770" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std46800.0no759" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std50400.0no226" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std50400.0no16" number="9" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std54000.0no308" number="14" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std54000.0no768" number="8" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std57600.0no32" number="11" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std57600.0no331" number="6" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std61200.0no738" number="9" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std61200.0no186" number="5" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std64800.0no710" number="7" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std64800.0no672" number="4" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std68400.0no694" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std68400.0no823" number="3" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std72000.0no329" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std72000.0no570" number="3" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std75600.0no500" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std75600.0no304" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std79200.0no461" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std79200.0no938" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962902std82800.0no939" number="2" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458592std82800.0no742" number="1" to="23845859" type="Bus"/>
+	</interval>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std0.0no817" number="21" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std0.0no937" number="16" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std3600.0no966" number="20" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std3600.0no344" number="15" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std7200.0no7" number="17" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std7200.0no718" number="13" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std10800.0no262" number="20" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std10800.0no956" number="15" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std14400.0no500" number="26" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std14400.0no577" number="20" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std18000.0no258" number="37" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std18000.0no282" number="29" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std21600.0no675" number="46" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std21600.0no741" number="36" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std25200.0no995" number="48" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std25200.0no293" number="37" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std28800.0no937" number="56" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std28800.0no918" number="43" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std32400.0no947" number="63" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std32400.0no357" number="49" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std36000.0no536" number="65" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std36000.0no665" number="50" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std39600.0no856" number="67" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std39600.0no149" number="52" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std43200.0no412" number="67" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std43200.0no399" number="52" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std46800.0no402" number="64" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std46800.0no683" number="50" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std50400.0no587" number="64" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std50400.0no676" number="49" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std54000.0no154" number="64" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std54000.0no413" number="50" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std57600.0no253" number="60" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std57600.0no112" number="47" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std61200.0no862" number="52" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std61200.0no242" number="40" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std64800.0no18" number="49" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std64800.0no181" number="38" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std68400.0no426" number="48" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std68400.0no168" number="37" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std72000.0no98" number="49" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std72000.0no963" number="38" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std75600.0no207" number="40" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std75600.0no714" number="31" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std79200.0no23" number="31" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std79200.0no602" number="24" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to2978962903std82800.0no939" number="22" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845853" id="23845853to238458593std82800.0no171" number="17" to="23845859" type="Lkw"/>
+	</interval>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std0.0no615" number="78" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std0.0no15" number="30" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std3600.0no672" number="55" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std3600.0no38" number="21" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std7200.0no706" number="49" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std7200.0no55" number="19" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std10800.0no849" number="47" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std10800.0no862" number="18" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std14400.0no250" number="80" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std14400.0no850" number="31" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std18000.0no220" number="220" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std18000.0no178" number="85" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std21600.0no140" number="439" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std21600.0no796" number="170" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std25200.0no609" number="555" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std25200.0no646" number="215" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std28800.0no138" number="487" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std28800.0no528" number="189" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std32400.0no34" number="449" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std32400.0no617" number="174" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std36000.0no443" number="434" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std36000.0no329" number="168" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std39600.0no692" number="451" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std39600.0no386" number="174" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std43200.0no804" number="491" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std43200.0no354" number="190" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std46800.0no535" number="538" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std46800.0no832" number="208" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std50400.0no246" number="550" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std50400.0no560" number="213" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std54000.0no417" number="576" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std54000.0no349" number="223" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std57600.0no61" number="628" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std57600.0no634" number="243" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std61200.0no374" number="643" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std61200.0no473" number="249" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std64800.0no434" number="555" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std64800.0no171" number="215" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std68400.0no910" number="413" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std68400.0no590" number="160" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std72000.0no749" number="297" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std72000.0no941" number="115" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std75600.0no659" number="222" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std75600.0no57" number="86" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std79200.0no914" number="162" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std79200.0no428" number="63" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962900std82800.0no384" number="111" to="297896290" type="Pkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449170std82800.0no704" number="43" to="142244917" type="Pkw"/>
+	</interval>
+	<interval begin="0.0" end="3599.0"/>
+	<interval begin="3600.0" end="7199.0"/>
+	<interval begin="7200.0" end="10799.0"/>
+	<interval begin="10800.0" end="14399.0"/>
+	<interval begin="14400.0" end="17999.0"/>
+	<interval begin="18000.0" end="21599.0"/>
+	<interval begin="21600.0" end="25199.0"/>
+	<interval begin="25200.0" end="28799.0"/>
+	<interval begin="28800.0" end="32399.0"/>
+	<interval begin="32400.0" end="35999.0"/>
+	<interval begin="36000.0" end="39599.0"/>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std39600.0no736" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std43200.0no639" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std46800.0no166" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std50400.0no309" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std54000.0no309" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std57600.0no557" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962901std61200.0no258" number="1" to="297896290" type="Motorrad"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0"/>
+	<interval begin="68400.0" end="71999.0"/>
+	<interval begin="72000.0" end="75599.0"/>
+	<interval begin="75600.0" end="79199.0"/>
+	<interval begin="79200.0" end="82799.0"/>
+	<interval begin="82800.0" end="86399.0"/>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std0.0no722" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std0.0no853" number="14" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std3600.0no270" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std3600.0no947" number="14" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std7200.0no441" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std7200.0no104" number="14" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std10800.0no587" number="6" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std10800.0no303" number="18" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std14400.0no966" number="8" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std14400.0no131" number="23" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std18000.0no177" number="11" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std18000.0no913" number="31" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std21600.0no924" number="14" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std21600.0no857" number="39" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std25200.0no627" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std25200.0no93" number="43" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std28800.0no230" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std28800.0no106" number="42" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std32400.0no894" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std32400.0no896" number="42" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std36000.0no78" number="15" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std36000.0no780" number="42" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std39600.0no988" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std39600.0no519" number="43" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std43200.0no297" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std43200.0no223" number="43" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std46800.0no345" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std46800.0no831" number="45" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std50400.0no235" number="17" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std50400.0no242" number="47" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std54000.0no744" number="16" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std54000.0no992" number="45" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std57600.0no513" number="14" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std57600.0no574" number="39" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std61200.0no893" number="13" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std61200.0no108" number="36" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std64800.0no337" number="9" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std64800.0no200" number="26" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std68400.0no761" number="8" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std68400.0no930" number="22" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std72000.0no571" number="7" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std72000.0no23" number="19" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std75600.0no141" number="6" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std75600.0no668" number="16" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std79200.0no144" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std79200.0no833" number="14" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962902std82800.0no869" number="5" to="297896290" type="Bus"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449172std82800.0no551" number="13" to="142244917" type="Bus"/>
+	</interval>
+	<interval begin="0.0" end="3599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std0.0no467" number="81" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std0.0no769" number="23" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="3600.0" end="7199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std3600.0no341" number="96" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std3600.0no205" number="27" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="7200.0" end="10799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std7200.0no470" number="100" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std7200.0no182" number="29" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="10800.0" end="14399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std10800.0no308" number="127" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std10800.0no873" number="36" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="14400.0" end="17999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std14400.0no654" number="157" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std14400.0no143" number="45" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="18000.0" end="21599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std18000.0no923" number="213" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std18000.0no370" number="61" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="21600.0" end="25199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std21600.0no429" number="218" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std21600.0no666" number="62" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="25200.0" end="28799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std25200.0no962" number="201" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std25200.0no42" number="57" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="28800.0" end="32399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std28800.0no56" number="202" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std28800.0no101" number="58" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="32400.0" end="35999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std32400.0no590" number="204" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std32400.0no776" number="58" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="36000.0" end="39599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std36000.0no302" number="204" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std36000.0no752" number="58" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="39600.0" end="43199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std39600.0no461" number="204" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std39600.0no208" number="58" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="43200.0" end="46799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std43200.0no272" number="203" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std43200.0no363" number="58" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="46800.0" end="50399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std46800.0no691" number="197" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std46800.0no244" number="56" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="50400.0" end="53999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std50400.0no163" number="197" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std50400.0no833" number="56" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="54000.0" end="57599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std54000.0no654" number="196" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std54000.0no21" number="56" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="57600.0" end="61199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std57600.0no425" number="188" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std57600.0no428" number="54" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="61200.0" end="64799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std61200.0no163" number="176" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std61200.0no208" number="50" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="64800.0" end="68399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std64800.0no174" number="150" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std64800.0no603" number="43" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="68400.0" end="71999.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std68400.0no758" number="129" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std68400.0no580" number="37" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="72000.0" end="75599.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std72000.0no502" number="110" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std72000.0no368" number="31" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="75600.0" end="79199.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std75600.0no1" number="92" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std75600.0no266" number="26" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="79200.0" end="82799.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std79200.0no737" number="83" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std79200.0no245" number="24" to="142244917" type="Lkw"/>
+	</interval>
+	<interval begin="82800.0" end="86399.0">
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to2978962903std82800.0no944" number="70" to="297896290" type="Lkw"/>
+		<flow arrivalLane="current" departLane="random" from="23845858" id="23845858to1422449173std82800.0no245" number="20" to="142244917" type="Lkw"/>
+	</interval>
+</flows>
